@@ -1,0 +1,29 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0",
+    "cogo-toast": "^4.2.3",
+    "next": "^10.2.0",
+    "nextjs-progressbar": "0.0.9",
+    "react": "16.8.0",
+    "react-bootstrap": "^1.5.2",
+    "react-data-table-component": "^6.11.7",
+    "react-dom": "16.8.0",
+    "react-slick": "^0.28.1",
+    "recharts": "^2.0.9",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0"
+  }
+}
