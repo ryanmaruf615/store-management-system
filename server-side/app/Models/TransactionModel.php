@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class transactionModel extends Model
+class TransactionModel extends Model
 {
     public $table = 'transaction_list';
     public $primaryKey = 'id';

@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\CartModel;
 use Illuminate\Http\Request;
 
-class CartCrontroller extends Controller
+class CartController extends Controller
 {
     function CartAdd(Request $request){
         $invoice_no=$request->input('invoice_no');
